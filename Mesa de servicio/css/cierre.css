@@ -1,0 +1,37 @@
+
+        /* Estilos para el formulario */
+        #fallaForm {
+          margin: 20px 0;
+        }
+      
+        #fallaForm label {
+          font-weight: bold;
+        }
+      
+        /* Estilos para la tabla */
+        .table {
+          margin-top: 20px;
+        }
+      
+        .table thead th {
+          background-color: #6cb9f8;
+          color: #e7e7e7;
+        }
+        .container {
+      width: 70%;
+      margin: 15px auto;
+    }
+    body {
+      text-align: center;
+      color: green;
+    }
+    h2 {
+      text-align: center;
+      font-family: "Verdana", sans-serif;
+      font-size: 30px;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
